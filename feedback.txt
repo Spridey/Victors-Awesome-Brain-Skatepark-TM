@@ -1,4 +1,8 @@
-1. change prompts to alert
-2. If you get answer wrong, show help text
+Feedback
 
-1. Going in the right place
+From student testers
+1. change prompts to alert - DONE
+2. If you get the answer wrong, show help text
+
+From Vic
+1. Going in the right place, good project
