@@ -1,0 +1,14 @@
+Five most important user stories
+
+1. As a Maths teacher, I need a way to for my students to practice their maths problems because there are not enough decent usbable options.
+2. As a teacher, I need my students to study outside of class time so that they could study more effectively.
+3. As a student, I need a way to work through my difficult problems step by step so that I can learn more effectively.
+4. As a teacher, I need a way to easily add new parts of work so that curriculums can change over time.
+5. As a teacher, I need a way to support my students with learning disabilities such as dyslexia so that they can partake in learning.
+
+
+Solutions to problems 
+1. print out worksheets given at the end of each class as homework.
+2. a website, that can be controlled and added to by Vic.
+3. a program, that can also be controlled and added to by Vic.
+  

@@ -1,0 +1,4 @@
+1. change prompts to alert
+2. If you get answer wrong, show help text
+
+1. Going in the right place
